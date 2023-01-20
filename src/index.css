@@ -26,3 +26,8 @@ body {
   /* pointer-events: none; */
 }
 
+/* Canvas */
+
+.canvas-overlay {
+  border: 1px solid green;
+}
