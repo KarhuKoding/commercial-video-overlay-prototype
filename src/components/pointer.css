@@ -1,0 +1,7 @@
+/* Pointer Element */
+.pointer-element {
+  border: 1px solid red;
+  position: absolute;
+  z-index: 100000;
+  pointer-events: all;
+}
